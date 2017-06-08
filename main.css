@@ -1,6 +1,9 @@
 h1 {
+	font-family: Arial;
+	text-transform: uppercase;
 	color: #426493;
 }
 body {
+	font-family: Arial;
 	color: #d010d2;
 }	
